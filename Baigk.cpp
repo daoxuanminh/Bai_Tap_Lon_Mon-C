@@ -23,3 +23,4 @@ int main (){
 	}
 	return 0;
 }
+có ai thấy chỗ này bị sửa ko !!!
